@@ -3,6 +3,7 @@
         "psycopg",
         "Psycopg",
         "testpass",
+        "uwsgi",
         "viewsets"
     ]
 }
